@@ -1,0 +1,44 @@
+﻿/*
+Previous Eligibility Rule Grid 
+*/
+.gridColumnEmployeeName
+{
+	width:80px;
+}
+.gridColumnAge
+{
+	width:150px;
+}
+.gridColumnSalary
+{
+	width:150px;
+}
+.gridColumnIsManager
+{
+	width:150px;
+}        
+
+/*
+Header Heights for Rule Grid
+*/
+#testGridHeaderContainer .gridColumnEmployeeName
+{
+    height:40px;
+}
+#testGridHeaderContainer .gridColumnAge
+{
+    height:40px;
+}
+#testGridHeaderContainer .gridColumnSalary
+{
+    height:40px;
+}
+#testGridHeaderContainer .gridColumnIsManager
+{
+    height:40px;
+}
+
+.testGridRow
+{
+    height:auto;
+}

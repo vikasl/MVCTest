@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="9A48A198-455E-4020-9C1E-56778BCE7916" ModuleId="MvcApplication" />
+  <Module PersistentId="FA34E2F5-A566-491E-A8E7-B8F088080121" ModuleId="MvcApplication.Tests" />
+</Modules>
