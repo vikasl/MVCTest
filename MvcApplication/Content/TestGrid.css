@@ -42,3 +42,14 @@ Header Heights for Rule Grid
 {
     height:auto;
 }
+
+.editFieldContainer
+{
+    float:left
+}
+
+
+.editChildrenContainer
+{
+    float:left
+}

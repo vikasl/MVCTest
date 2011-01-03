@@ -7,8 +7,55 @@
     </boolean>
   </SettingsComponent>
   <RecentFiles>
-    <RecentFiles />
-    <RecentEdits />
+    <RecentFiles>
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Models/f:AccountModels.cs" caret="0" fromTop="0" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Controllers/f:AccountController.cs" caret="3204" fromTop="24" />
+      <File id="FA34E2F5-A566-491E-A8E7-B8F088080121/d:Controllers/f:HomeControllerTest.cs" caret="383" fromTop="15" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Controllers/f:HomeController.cs" caret="287" fromTop="13" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/f:Global.asax.cs" caret="935" fromTop="28" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:DataService/f:TestDataService.cs" caret="158" fromTop="7" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:ViewModel/f:TestViewModel.cs" caret="219" fromTop="10" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:DataService/f:Employee.cs" caret="25" fromTop="0" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Views/d:Home/f:Index.aspx" caret="0" fromTop="0" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Content/f:MvcAppGrid.css" caret="155" fromTop="9" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Scripts/f:TestScript.js" caret="1831" fromTop="41" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Views/d:Shared/f:Site.Master" caret="1016" fromTop="15" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Content/f:TestGrid.css" caret="593" fromTop="26" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Views/d:Test/f:Index.aspx" caret="2360" fromTop="14" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Controllers/f:TestController.cs" caret="633" fromTop="29" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Scripts/f:TestScript.js" caret="1442" fromTop="49" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Scripts/f:TestScript.js" caret="980" fromTop="31" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Scripts/f:TestScript.js" caret="1255" fromTop="39" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Views/d:Test/f:Index.aspx" caret="4226" fromTop="8" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Views/d:Shared/f:Site.Master" caret="1852" fromTop="13" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Views/d:Test/f:Index.aspx" caret="4226" fromTop="6" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Views/d:Test/f:Index.aspx" caret="4226" fromTop="22" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Views/d:Test/f:Index.aspx" caret="4226" fromTop="50" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Scripts/f:TestScript.js" caret="90" fromTop="14" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Scripts/f:TestScript.js" caret="736" fromTop="17" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Scripts/f:TestScript.js" caret="593" fromTop="22" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Controllers/f:TestController.cs" caret="825" fromTop="33" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Views/d:Test/f:Index.aspx" caret="4226" fromTop="14" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Views/d:Test/f:Index.aspx" caret="2947" fromTop="29" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Views/d:Test/f:Index.aspx" caret="3040" fromTop="33" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Views/d:Test/f:Index.aspx" caret="4189" fromTop="22" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Views/d:Test/f:Index.aspx" caret="1997" fromTop="18" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Scripts/f:TestScript.js" caret="1971" fromTop="38" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Scripts/f:TestScript.js" caret="2029" fromTop="33" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Scripts/f:TestScript.js" caret="1482" fromTop="25" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Views/d:Test/f:Index.aspx" caret="1788" fromTop="31" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Views/d:Shared/f:Site.Master" caret="0" fromTop="0" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Views/d:Shared/f:Site.Master" caret="1016" fromTop="15" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Scripts/f:TestScript.js" caret="1944" fromTop="45" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Scripts/f:TestScript.js" caret="1831" fromTop="41" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Views/d:Test/f:Index.aspx" caret="2749" fromTop="38" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Content/f:TestGrid.css" caret="596" fromTop="27" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Content/f:TestGrid.css" caret="665" fromTop="35" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Views/d:Test/f:Index.aspx" caret="2852" fromTop="28" />
+      <File id="9A48A198-455E-4020-9C1E-56778BCE7916/d:Views/d:Test/f:Index.aspx" caret="2360" fromTop="14" />
+    </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
     <NAntPath value="" />
@@ -20,4 +67,32 @@
     <NUnitInstallDir>C:\Program Files\NUnit 2.5.8\bin\net-2.0\</NUnitInstallDir>
     <UseAddins>Never</UseAddins>
   </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="4" />
+      <Item value="List" priority="2" />
+      <Item value="string" priority="1" />
+      <Item value="int" priority="1" />
+      <Item value="bool" priority="0" />
+      <Item value="new" priority="4" />
+      <Item value="Employees`0" priority="0" />
+      <Item value="Employees" priority="1" />
+      <Item value="false" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="return" priority="1" />
+      <Item value="var" priority="2" />
+      <Item value="DataService" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="Web" priority="0" />
+      <Item value="Mvc" priority="0" />
+      <Item value="dataService" priority="0" />
+      <Item value="JsonResult`0" priority="0" />
+      <Item value="Json`0" priority="0" />
+      <Item value="empList" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MvcApplication.DataService.TestDataService">
+      <Item value="GetEmployees`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>

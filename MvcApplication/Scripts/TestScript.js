@@ -67,6 +67,30 @@
 
 
 
+    this.editEmployee = function (data) {
+
+        var targetDiv = $('div#testPopUpWithTabContent');
+
+        // Clear out previous contents
+        targetDiv.html('');
+        $('#editEmployeeTemplate').tmpl(null).appendTo(targetDiv);
+
+        //Initialize the children tabs 
+        $("#childrentabs").tabs();
+        targetDiv.dialog({
+            title: 'Edit Employee Tab Test',
+            height: 390,
+            width: 900,
+            modal: true
+        });
+
+        }
+
+
+
+
+    
+
 
 
     /**********************************************************************************

@@ -75,6 +75,7 @@
     <Compile Include="ViewModel\TestViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\jquery-ui-1.7.2.custom.css" />
     <Content Include="Content\MvcAppGrid.css" />
     <Content Include="Content\TestGrid.css" />
     <Content Include="Global.asax" />
@@ -82,6 +83,7 @@
     <Content Include="Images\tablesorter_asc.gif" />
     <Content Include="Images\tablesorter_desc.gif" />
     <Content Include="Images\tablesorter_unsorted.gif" />
+    <Content Include="Scripts\jquery-ui-1.8.2.custom.min.js" />
     <Content Include="Scripts\jquery.json.js" />
     <Content Include="Scripts\jquery.tmpl.js" />
     <Content Include="Scripts\TestScript.js" />
